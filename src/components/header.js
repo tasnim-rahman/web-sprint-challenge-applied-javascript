@@ -12,7 +12,7 @@ const Header = (title, date, temp) => {
   //  </div>
   //
 }
-
+let name = "Tasnim"
 const headerAppender = (selector) => {
   // TASK 2
   // ---------------------
